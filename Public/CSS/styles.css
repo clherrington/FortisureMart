@@ -132,7 +132,15 @@ product-card-two-grid > button > span,
 .product-card-three-grid > button > span{
     font-size: 12px;
 }
-
+.footer-center {
+    grid-column: 2;
+}
+.footer-right {
+    grid-column: 3;
+    text-align: center;
+    margin-right: 10%;
+    margin-top: 220px;
+}
 .page-footer{
     background-color: #5DE1D9;
     height: auto;
@@ -147,9 +155,14 @@ product-card-two-grid > button > span,
     font-weight: bold;
     border: none;
 }
-
-
-
+.form-contact {
+    grid-column: 2;
+    width: 100%;
+}
+.form-contact > textarea,
+.form-row {
+    margin-bottom:15px
+}
 
 
 
