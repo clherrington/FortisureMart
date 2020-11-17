@@ -4,7 +4,7 @@
     include './Controller/product-cards.php';
     include './Controller/update-cart.php';
     include './Model/query-prodcuts.php';
-//asldkjhjh
+
     $database = new Database();
     $db = $database->connect();
 
