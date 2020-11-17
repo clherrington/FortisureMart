@@ -1,0 +1,14 @@
+
+
+MVC Model
+
+Add Loop
+    code on Index line 40
+    (Create product-cards)
+
+Add Form Functionality
+    change form on Footer line 6
+    include on Index line 55
+    (Create form-submit)
+    
+
