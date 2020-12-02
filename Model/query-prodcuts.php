@@ -1,6 +1,7 @@
 <?php
 class Product {
-    public function __construct($db){
+    public function __construct($db)
+    {
         $this->conn = $db;
     }
 
